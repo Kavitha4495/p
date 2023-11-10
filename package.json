@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.2",
+    "bootstrap": "^5.3.2",
+    "create-react-app": "^5.0.1",
+    "mdb-react-ui-kit": "^6.3.0",
+    "npx": "^10.2.2",
+    "react-bootstrap": "^2.9.1",
+    "react-router-dom": "^6.18.0"
+  }
+}
